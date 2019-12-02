@@ -1,0 +1,7 @@
+#Tue Nov 26 22:39:54 BRST 2019
+base.0=D\:\\Projects\\AndroidStudioProjects\\usjt_ccp3an_bua_weather_forecast\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\Projects\\AndroidStudioProjects\\usjt_ccp3an_bua_weather_forecast\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
